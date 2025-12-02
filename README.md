@@ -39,7 +39,7 @@ Mi GitHub es mi portafolio activo. Aquí puedes encontrar ejemplos de mis habili
 
 Estoy siempre abierto a colaborar en proyectos y a discutir nuevas tecnologías.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[jorgeandresR03@gmail.com])
 
 ---
