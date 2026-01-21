@@ -2,7 +2,7 @@
 
 ### 🎓 Estudiante de Ingeniería de Sistemas y Desarrollador Backend
 
-Soy un estudiante avanzado (9° Semestre) de Ingeniería de Sistemas, apasionado por la **construcción de sistemas robustos y escalables** utilizando Java y el ecosistema Spring. Me enfoco en el desarrollo Backend, la calidad del código y la implementación de soluciones que cumplan con los estándares de la industria.
+Soy un estudiante avanzado de Ingeniería de Sistemas, apasionado por la **construcción de sistemas robustos y escalables** utilizando Java y el ecosistema Spring. Me enfoco en el desarrollo Backend, la calidad del código y la implementación de soluciones que cumplan con los estándares de la industria.
 
 ---
 
@@ -32,7 +32,10 @@ Mi GitHub es mi portafolio activo. Aquí puedes encontrar ejemplos de mis habili
     * **Descripción:** [Software encargado de llevar las finanzas del hogar]
     * **Tecnologías:** [Java + spring Boot + PostgreSQL + Gradle]
     * **Enlace:** [https://github.com/JuanCarJ/familyspencesapi.git]
-
+* **[notes-app-challenge-Ensolvers]**
+    * **Descripción:** [Reto de iniciacion en la empresa Ensolvers, se solicito crear una web que permitiera hacer notas, editarlas, borrarlas y archivarlas, todo esto con las tecnologias recomendadas.]
+    * **Tecnologías:** [Java + spring Boot + PostgreSQL + Maven + TypeScrip]
+    * **Enlace:** [https://github.com/jorgeR03/notes-app-challenge-Ensolvers.git]
 ---
 
 ### 🌐 Conéctate Conmigo
