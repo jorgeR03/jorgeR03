@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jorge Andrés Carmona Ramírez
 
-### 🎓 Estudiante de Ingeniería de Sistemas y Desarrollador Backend
+### 🎓 Ingeniero de Sistemas y Desarrollador Backend
 
 Soy un estudiante avanzado de Ingeniería de Sistemas, apasionado por la **construcción de sistemas robustos y escalables** utilizando Java y el ecosistema Spring. Me enfoco en el desarrollo Backend, la calidad del código y la implementación de soluciones que cumplan con los estándares de la industria.
 
