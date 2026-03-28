@@ -32,6 +32,18 @@ Mi GitHub es mi portafolio activo. Aquí puedes encontrar ejemplos de mis habili
     * **Descripción:** [Software encargado de llevar las finanzas del hogar]
     * **Tecnologías:** [Java + spring Boot + PostgreSQL + Gradle]
     * **Enlace:** [https://github.com/JuanCarJ/familyspencesapi.git]
+ * **[Ejercicios documentados complejidad algoritmica]**
+    * **Descripción:** [Algoritmos implementados para desarrollar pensamiento algoritmico y entendender su complejidad]
+    * **Tecnologías:** [Python]
+    * **Enlace:** [https://github.com/jorgeR03/EJERCICIOS_DOCUMENTADOS_COMPLEJIDAD_ALGORITMOS.git]
+* **[RepartOS]**
+    * **Descripción:** [App para gestión de restaurantes y comercios, donde se pueden manejar todo tipo de servicios como son: Domiciilios, mesas, menu, equipo de trabajo, inventario, personal + apk movil para repartidores]
+    * **Tecnologías:** [Java 21 + spring Boot 3 + Next.js 14 + Maven + PostgreSQL + Redis 7 + Rabbit MQ + Expo SDK 54]
+    * **Enlace:** [https://customer-app-gold.vercel.app/]
+* **[GymApp]**
+    * **Descripción:** [App para gestión de gimnasios, incluyendo planes de mensualidad, rutinas, manejo de maquinas y chatbot explicativo.]
+    * **Tecnologías:** [Next.js 14 + Upstash Redis + Next.js 14 + Tailwind CSS + shadcn/ui + PostgreSQL via Supabase (con RLS multi-tenant) + Supabase Realtime (WebSockets)]
+    * **Enlace:** [https://gym-app-web-chi.vercel.app/]
 * **[notes-app-challenge-Ensolvers]**
     * **Descripción:** [Reto de iniciacion en la empresa Ensolvers, se solicito crear una web que permitiera hacer notas, editarlas, borrarlas y archivarlas, todo esto con las tecnologias recomendadas.]
     * **Tecnologías:** [Java + spring Boot + PostgreSQL + Maven + TypeScrip]
