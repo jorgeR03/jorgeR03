@@ -11,7 +11,7 @@
 [![Portafolio](https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://jorzunex.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeandresR03@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573245003522)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573107354349)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JorZunexSolutions)
 
 <img src="https://komarev.com/ghpvc/?username=jorgeR03&label=Visitas%20al%20perfil&color=38bdf8&style=flat-square" alt="Profile views" />
@@ -190,12 +190,35 @@ API para el control de las **finanzas del hogar**: registro de ingresos y gastos
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgeR03&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeR03&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" />
+<img src="https://ghchart.rshah.org/38bdf8/jorgeR03" width="92%" alt="Gráfico de contribuciones de jorgeR03" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=jorgeR03&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6600&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jorgeR03&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+<!-- ══════════════════════════════════════════════════════════════════════
+     ¿NO SE VEN LAS TARJETAS DE ABAJO?
+     No es tu README: las genera un servidor público gratuito que vive
+     saturado (github-readme-stats.vercel.app). Le pasa a todo el mundo.
+
+     ARREGLO DEFINITIVO (5 minutos, gratis):
+       1. Fork de  github.com/anuraghazra/github-readme-stats
+       2. vercel.com -> Add New -> Project -> importa tu fork -> Deploy
+       3. Reemplaza aquí "github-readme-stats.vercel.app" por tu dominio
+          (ej: "grs-jorge.vercel.app") en las 2 URLs de abajo.
+       4. Opcional: en Vercel -> Settings -> Environment Variables
+          añade  PAT_1 = <tu token de GitHub>  y ya no te limita nunca.
+          Con el PAT sí funciona count_private=true (commits privados).
+     ══════════════════════════════════════════════════════════════════════ -->
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgeR03&show_icons=true&hide_border=true&cache_seconds=86400&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" alt="Estadísticas de GitHub de jorgeR03" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeR03&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" alt="Lenguajes más usados" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=jorgeR03&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6600&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="Racha de commits" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jorgeR03&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trofeos de GitHub" />
 
 </div>
 
@@ -226,7 +249,7 @@ API para el control de las **finanzas del hogar**: registro de ingresos y gastos
 [![Portafolio](https://img.shields.io/badge/jorzunex.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://jorzunex.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/)
 [![Gmail](https://img.shields.io/badge/jorgeandresR03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeandresR03@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/+57_324_500_3522-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573245003522)
+[![WhatsApp](https://img.shields.io/badge/+57_310_735_4349-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573107354349)
 
 <br/>
 
