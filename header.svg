@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Jorge Andres Carmona - Ingeniero de Sistemas - Backend Java y Spring Boot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="clip">
+      <path d="M0,150 C150,192 250,108 400,150 C550,192 650,108 800,150 C950,192 1050,108 1200,150 L1200,0 L0,0 Z"/>
+    </clipPath>
+
+    <style>
+      .f { font-family: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif; }
+      .title { font-size: 42px; font-weight: 700; fill: #ffffff; letter-spacing: .6px; animation: rise .9s cubic-bezier(.2,.7,.3,1) both; }
+      .desc  { font-size: 16px; font-weight: 500; fill: #CBD5E1; letter-spacing: .4px; animation: rise 1.25s cubic-bezier(.2,.7,.3,1) both; }
+      .rule  { animation: fade 1.5s ease-out both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes fade { from { opacity: 0; } to { opacity: .95; } }
+      @media (prefers-reduced-motion: reduce) { .title, .desc, .rule { animation: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="200" fill="url(#bg)"/>
+    <rect width="1200" height="200" fill="url(#glow)"/>
+  </g>
+
+  <text class="f title" x="600" y="84" text-anchor="middle">Jorge Andrés Carmona</text>
+  <rect class="rule" x="540" y="98" width="120" height="2" rx="1" fill="#38BDF8" opacity=".95"/>
+  <text class="f desc" x="600" y="126" text-anchor="middle">Ingeniero de Sistemas · Backend Java &amp; Spring Boot</text>
+</svg>
