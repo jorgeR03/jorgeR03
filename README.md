@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner propio (assets/header.svg) — ya no depende de capsule-render.vercel.app -->
-<img src="./assets/header.svg" width="100%" alt="Jorge Andrés Carmona — Ingeniero de Sistemas · Backend Java & Spring Boot" />
+<img src="./header.svg" width="100%" alt="Jorge Andrés Carmona — Ingeniero de Sistemas · Backend Java & Spring Boot" />
 
 <a href="https://ingeniero-jorge-carmona.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Ingeniero+de+Sistemas+en+Talma;Backend+Developer+%7C+Java+21+%2B+Spring+Boot+3;Arquitectura+Hexagonal+%2B+Microservicios;Cofundador+de+JorZunex+Solutions" alt="Typing SVG" />
@@ -298,7 +298,7 @@ API para el control de las **finanzas del hogar**: registro de ingresos y gastos
 *"No solo entregamos código, entregamos soluciones que mueven métricas."*
 
 <!-- Onda de cierre propia (assets/footer.svg) -->
-<img src="./assets/footer.svg" width="100%" alt="" />
+<img src="./footer.svg" width="100%" alt="" />
 
 <img src="https://api.iconify.design/lucide/star.svg?color=%2338bdf8" width="16" /> &nbsp;**¡Gracias por visitar mi perfil!**
 
