@@ -1,68 +1,239 @@
-# 👋 Hola, soy Jorge Andrés Carmona Ramírez
+<div align="center">
 
-### 🎓 Ingeniero de Sistemas y Desarrollador Backend
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jorge%20Andr%C3%A9s%20Carmona&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Cloud&descAlignY=54&descSize=16" width="100%" />
 
-Soy un estudiante avanzado de Ingeniería de Sistemas, apasionado por la **construcción de sistemas robustos y escalables** utilizando Java y el ecosistema Spring. Me enfoco en el desarrollo Backend, la calidad del código y la implementación de soluciones que cumplan con los estándares de la industria.
+<a href="https://jorzunex.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Ingeniero+de+Sistemas+%7C+Backend+Developer;Java+%2B+Spring+Boot+%2B+PostgreSQL;Co-fundador+de+JorZunex+Solutions;Construyendo+sistemas+robustos+y+escalables" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://jorzunex.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeandresR03@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573245003522)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JorZunexSolutions)
+
+<img src="https://komarev.com/ghpvc/?username=jorgeR03&label=Visitas%20al%20perfil&color=38bdf8&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/jorgeR03?label=Seguidores&style=flat-square&color=38bdf8" alt="Followers" />
+
+</div>
 
 ---
 
-### 🚀 Stack Tecnológico Favorito
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2338bdf8" width="22" /> &nbsp;Sobre mí
 
-Aquí están las tecnologías y herramientas con las que trabajo regularmente:
+```java
+@Component
+public class JorgeCarmona implements SoftwareEngineer {
 
-| Categoría | Tecnologías Clave |
+    private final String rol       = "Backend Developer";
+    private final String empresa   = "JorZunex Solutions";
+    private final String ubicacion = "Colombia · Remoto global";
+
+    private final List<String> enfoque = List.of(
+        "Arquitecturas limpias y escalables",
+        "APIs REST seguras con Spring Boot",
+        "Optimización de consultas y rendimiento",
+        "Integración de IA en productos reales"
+    );
+
+    @Override
+    public String objetivoActual() {
+        return "Llevar más productos SaaS a producción";
+    }
+}
+```
+
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2338bdf8" width="16" /> &nbsp;Estudiante avanzado de **Ingeniería de Sistemas**, especializado en **desarrollo Backend**.
+
+<img src="https://api.iconify.design/lucide/building-2.svg?color=%2338bdf8" width="16" /> &nbsp;Co-fundador de **[JorZunex Solutions](https://jorzunex.github.io/)** — software a medida + soluciones de IA.
+
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8" width="16" /> &nbsp;**5 productos SaaS en producción** con usuarios reales: gimnasios, restaurantes, talleres, farmacias e inmobiliarias.
+
+<img src="https://api.iconify.design/lucide/brain.svg?color=%2338bdf8" width="16" /> &nbsp;Apasionado por el **pensamiento algorítmico**, la calidad de código y los estándares de la industria.
+
+<img src="https://api.iconify.design/lucide/settings.svg?color=%2338bdf8" width="16" /> &nbsp;Metodologías **SCRUM / Kanban** · Autoaprendizaje constante.
+
+<img src="https://api.iconify.design/lucide/mail.svg?color=%2338bdf8" width="16" /> &nbsp;¿Hablamos? **jorgeandresR03@gmail.com**
+
+---
+
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2338bdf8" width="22" /> &nbsp;Stack Tecnológico
+
+<div align="center">
+
+**Lenguajes & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,nextjs,react,tailwind&theme=dark" />
+
+**Datos & Mensajería**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq,supabase,hibernate&theme=dark" />
+
+**DevOps & Herramientas**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,maven,gradle,vercel,idea,postman&theme=dark" />
+
+</div>
+
+<details>
+<summary><b><img src="https://api.iconify.design/lucide/list.svg?color=%2338bdf8" width="15" /> &nbsp;Ver detalle por categoría</b></summary>
+
+<br/>
+
+| Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguaje Core** | `Java` |
-| **Frameworks** | `Spring Boot` (REST APIs, Seguridad), `JPA/Hibernate` |
-| **Bases de Datos** | `MySQL`, `PostgreSQL`, `SQL` |
-| **Control de Versiones** | `Git`, `GitHub` |
-| **Herramientas** | `Maven`, `Postman`, `IntelliJ IDEA` |
+| **Lenguaje Core** | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) |
+| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis_7-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Mensajería & Caché** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Mobile** | ![Expo](https://img.shields.io/badge/Expo_SDK_54-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Build & Testing** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) |
+
+</details>
 
 ---
 
-### 💡 Proyectos Destacados (Mi portafolio)
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8" width="22" /> &nbsp;Proyectos en Producción
 
-Mi GitHub es mi portafolio activo. Aquí puedes encontrar ejemplos de mis habilidades de **Pensamiento Algorítmico** y **Resolución de Problemas**.
+> Productos reales, con usuarios reales. Construidos y desplegados con **[JorZunex Solutions](https://jorzunex.github.io/)**.
 
-* **[Evo_digital]**
-    * **Descripción:** [Software inmobiliario capaz de controlar todas las funcionalidades de las agencias inmobiliarias, generar contenido 3D, automatización de tareas y registro de contabilidad.]
-    * **Tecnologías:** `Java`, `Spring Boot`, `MySQL`.
-    * **Enlace:** [https://github.com/jorgeR03/Evo-Digital]
-* **[FamilySpences]**
-    * **Descripción:** [Software encargado de llevar las finanzas del hogar]
-    * **Tecnologías:** [Java + spring Boot + PostgreSQL + Gradle]
-    * **Enlace:** [https://github.com/JuanCarJ/familyspencesapi.git]
- * **[Ejercicios documentados complejidad algoritmica]**
-    * **Descripción:** [Algoritmos implementados para desarrollar pensamiento algoritmico y entendender su complejidad]
-    * **Tecnologías:** [Python]
-    * **Enlace:** [https://github.com/jorgeR03/EJERCICIOS_DOCUMENTADOS_COMPLEJIDAD_ALGORITMOS.git]
-* **[RepartOS]**
-    * **Descripción:** [App para gestión de restaurantes y comercios, donde se pueden manejar todo tipo de servicios como son: Domiciilios, mesas, menu, equipo de trabajo, inventario, personal + apk movil para repartidores]
-    * **Tecnologías:** [Java 21 + spring Boot 3 + Next.js 14 + Maven + PostgreSQL + Redis 7 + Rabbit MQ + Expo SDK 54]
-    * **Enlace:** [https://customer-app-gold.vercel.app/]
-* **[GymApp]**
-    * **Descripción:** [App para gestión de gimnasios, incluyendo planes de mensualidad, rutinas, manejo de maquinas y chatbot explicativo.]
-    * **Tecnologías:** [Next.js 14 + Upstash Redis + Next.js 14 + Tailwind CSS + shadcn/ui + PostgreSQL via Supabase (con RLS multi-tenant) + Supabase Realtime (WebSockets)]
-    * **Enlace:** [https://gym-app-web-chi.vercel.app/]
-* **[notes-app-challenge-Ensolvers]**
-    * **Descripción:** [Reto de iniciacion en la empresa Ensolvers, se solicito crear una web que permitiera hacer notas, editarlas, borrarlas y archivarlas, todo esto con las tecnologias recomendadas.]
-    * **Tecnologías:** [Java + spring Boot + PostgreSQL + Maven + TypeScrip]
-    * **Enlace:** [https://github.com/jorgeR03/notes-app-challenge-Ensolvers.git]
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/utensils.svg?color=%2338bdf8" width="18" /> &nbsp;RepartOS — Menú Digital con IA
+
+SaaS para restaurantes y comercios: **menú digital por QR**, pedidos en tiempo real, pantalla **KDS** para cocina, domicilios, mesas, inventario, personal y **chatbot con IA**. Incluye APK móvil para repartidores.
+
+`Java 21` `Spring Boot 3` `Next.js 14` `PostgreSQL` `Redis 7` `RabbitMQ` `Expo SDK 54`
+
+[![Demo](https://img.shields.io/badge/Ver_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://customer-app-gold.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/dumbbell.svg?color=%2338bdf8" width="18" /> &nbsp;PowerFit — Plataforma de Gym
+
+Gestión integral de gimnasios: planes de mensualidad, rutinas personalizadas, **cálculo de IMC en tiempo real**, control de máquinas, seguimiento de progreso y chatbot explicativo.
+
+`Next.js 14` `Tailwind CSS` `shadcn/ui` `Supabase (RLS multi-tenant)` `Upstash Redis` `Realtime WS`
+
+[![Demo](https://img.shields.io/badge/Ver_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gym-app-web-chi.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/building.svg?color=%2338bdf8" width="18" /> &nbsp;Evo Digital — Portal Inmobiliario
+
+Portal y ERP inmobiliario premium: búsqueda inteligente de propiedades, **tours 3D inmersivos**, contratos digitales, automatización de tareas, contabilidad y análisis de inversión.
+
+`Java` `Spring Boot` `MySQL` `React`
+
+[![Demo](https://img.shields.io/badge/Ver_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jorzunex.vercel.app/)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgeR03/Evo-Digital)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/pill.svg?color=%2338bdf8" width="18" /> &nbsp;PharmaPOS — Gestión de Farmacias
+
+POS inteligente para farmacias en LATAM: ventas, **inventario predictivo con IA**, alertas de stock y facturación electrónica **DIAN**.
+
+`React` `POS` `IA` `PostgreSQL` `Vercel`
+
+[![Demo](https://img.shields.io/badge/Ver_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pos-web-hazel.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/bike.svg?color=%2338bdf8" width="18" /> &nbsp;MotoGest Pro — Talleres de Motos
+
+Sistema integral para talleres: órdenes de trabajo, clientes, inventario de repuestos y reportes en tiempo real. Todo el taller en una sola pantalla.
+
+`React` `Tailwind` `SaaS` `Vercel`
+
+[![Demo](https://img.shields.io/badge/Ver_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://motogest-web.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/wallet.svg?color=%2338bdf8" width="18" /> &nbsp;FamilyExpenses API
+
+API para el control de las **finanzas del hogar**: registro de ingresos y gastos, categorías, presupuestos y reportes por miembro de la familia.
+
+`Java` `Spring Boot` `PostgreSQL` `Gradle`
+
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanCarJ/familyspencesapi)
+
+</td>
+</tr>
+</table>
+
+### <img src="https://api.iconify.design/lucide/library.svg?color=%2338bdf8" width="18" /> &nbsp;Otros repositorios destacados
+
+| Proyecto | Descripción | Stack | Enlace |
+| :--- | :--- | :--- | :---: |
+| **Notes App — Reto Ensolvers** | Web para crear, editar, borrar, archivar y filtrar notas por etiquetas. Reto técnico de ingreso. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [![Repo](https://img.shields.io/badge/-Ver-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jorgeR03/notes-app-challenge-Ensolvers) |
+| **Complejidad Algorítmica** | Algoritmos documentados para desarrollar pensamiento algorítmico y analizar su complejidad temporal y espacial. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Repo](https://img.shields.io/badge/-Ver-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jorgeR03/EJERCICIOS_DOCUMENTADOS_COMPLEJIDAD_ALGORITMOS) |
+
 ---
 
-### 🌐 Conéctate Conmigo
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8" width="22" /> &nbsp;Estadísticas de GitHub
 
-Estoy siempre abierto a colaborar en proyectos y a discutir nuevas tecnologías.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[jorgeandresR03@gmail.com])
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgeR03&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeR03&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=jorgeR03&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6600&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=jorgeR03&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+
+</div>
 
 ---
 
-### Aptitudes Clave
+## <img src="https://api.iconify.design/lucide/target.svg?color=%2338bdf8" width="22" /> &nbsp;Aptitudes Clave
 
-* ✅ Análisis y Resolución de Problemas
-* ✅ Trabajo en Entornos Ágiles (SCRUM/Kanban)
-* ✅ Capacidad de Autoaprendizaje
+<div align="center">
 
-**¡Gracias por visitar mi perfil!**
+| <img src="https://api.iconify.design/lucide/puzzle.svg?color=%2338bdf8" width="15" /> &nbsp;Técnicas | <img src="https://api.iconify.design/lucide/handshake.svg?color=%2338bdf8" width="15" /> &nbsp;Profesionales |
+| :--- | :--- |
+| Diseño de APIs REST y arquitectura por capas | Análisis y resolución de problemas |
+| Modelado de datos y optimización SQL | Trabajo en entornos ágiles (SCRUM / Kanban) |
+| Seguridad, autenticación y multi-tenancy | Comunicación clara con cliente y equipo |
+| Clean Code, SOLID y buenas prácticas | Capacidad de autoaprendizaje |
+| Integración de IA en productos reales | Entregas incrementales y trabajo bajo presión |
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8" width="22" /> &nbsp;Conectemos
+
+**¿Tienes un proyecto en mente? Hablemos.**
+
+[![Portafolio](https://img.shields.io/badge/jorzunex.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://jorzunex.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/)
+[![Gmail](https://img.shields.io/badge/jorgeandresR03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeandresR03@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/+57_324_500_3522-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573245003522)
+
+<br/>
+
+*"No solo entregamos código, entregamos soluciones que mueven métricas."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+
+<img src="https://api.iconify.design/lucide/star.svg?color=%2338bdf8" width="16" /> &nbsp;**¡Gracias por visitar mi perfil!**
+
+</div>
