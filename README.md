@@ -8,14 +8,26 @@
 
 <br/>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://jorzunex.github.io/)
+### <img src="https://api.iconify.design/lucide/external-link.svg?color=%2338bdf8" width="20" /> &nbsp;Mi portafolio
+
+<a href="https://jorzunex.github.io/">
+  <img src="https://img.shields.io/badge/VER_PORTAFOLIO_COMPLETO-jorzunex.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=38BDF8" alt="Portafolio" height="34" />
+</a>
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeandresR03@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573107354349)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JorZunexSolutions)
 
+<!-- ── Contadores ocultos por ahora ──────────────────────────────────────
+     Mostrar "2 visitas / 2 seguidores" comunica un perfil vacío.
+     Cuando los números crezcan, borra estas dos líneas de comentario
+     y quedan activos otra vez.
 <img src="https://komarev.com/ghpvc/?username=jorgeR03&label=Visitas%20al%20perfil&color=38bdf8&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/jorgeR03?label=Seguidores&style=flat-square&color=38bdf8" alt="Followers" />
+     ──────────────────────────────────────────────────────────────────── -->
 
 </div>
 
@@ -23,37 +35,19 @@
 
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2338bdf8" width="22" /> &nbsp;Sobre mí
 
-```java
-@Component
-public class JorgeCarmona implements SoftwareEngineer {
+Ingeniero de Sistemas y **Backend Developer** especializado en **Java** y el ecosistema **Spring**. Co-fundador de **[JorZunex Solutions](https://jorzunex.github.io/)**, donde diseño, construyo y llevo a producción plataformas SaaS que hoy usan gimnasios, restaurantes, talleres, farmacias e inmobiliarias en Colombia.
 
-    private final String rol       = "Backend Developer";
-    private final String empresa   = "JorZunex Solutions";
-    private final String ubicacion = "Colombia · Remoto global";
+Mi trabajo se centra en **arquitecturas limpias y escalables**, **APIs REST seguras con Spring Boot**, **optimización de consultas y rendimiento** e **integración de IA en productos reales**.
 
-    private final List<String> enfoque = List.of(
-        "Arquitecturas limpias y escalables",
-        "APIs REST seguras con Spring Boot",
-        "Optimización de consultas y rendimiento",
-        "Integración de IA en productos reales"
-    );
+<br/>
 
-    @Override
-    public String objetivoActual() {
-        return "Llevar más productos SaaS a producción";
-    }
-}
-```
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8" width="16" /> &nbsp;**5 productos SaaS en producción**, con usuarios reales.
 
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2338bdf8" width="16" /> &nbsp;Estudiante avanzado de **Ingeniería de Sistemas**, especializado en **desarrollo Backend**.
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2338bdf8" width="16" /> &nbsp;Estudiante avanzado de **Ingeniería de Sistemas**.
 
-<img src="https://api.iconify.design/lucide/building-2.svg?color=%2338bdf8" width="16" /> &nbsp;Co-fundador de **[JorZunex Solutions](https://jorzunex.github.io/)** — software a medida + soluciones de IA.
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%2338bdf8" width="16" /> &nbsp;**Colombia** · Disponible para trabajo **remoto global**.
 
-<img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8" width="16" /> &nbsp;**5 productos SaaS en producción** con usuarios reales: gimnasios, restaurantes, talleres, farmacias e inmobiliarias.
-
-<img src="https://api.iconify.design/lucide/brain.svg?color=%2338bdf8" width="16" /> &nbsp;Apasionado por el **pensamiento algorítmico**, la calidad de código y los estándares de la industria.
-
-<img src="https://api.iconify.design/lucide/settings.svg?color=%2338bdf8" width="16" /> &nbsp;Metodologías **SCRUM / Kanban** · Autoaprendizaje constante.
+<img src="https://api.iconify.design/lucide/settings.svg?color=%2338bdf8" width="16" /> &nbsp;**SCRUM / Kanban** · Clean Code · SOLID · Autoaprendizaje constante.
 
 <img src="https://api.iconify.design/lucide/mail.svg?color=%2338bdf8" width="16" /> &nbsp;¿Hablamos? **jorgeandresR03@gmail.com**
 
@@ -177,6 +171,14 @@ API para el control de las **finanzas del hogar**: registro de ingresos y gastos
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://jorzunex.github.io/">
+  <img src="https://img.shields.io/badge/Ver_todos_mis_proyectos-jorzunex.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=38BDF8" alt="Ver todos los proyectos" height="32" />
+</a>
+
+</div>
+
 ### <img src="https://api.iconify.design/lucide/library.svg?color=%2338bdf8" width="18" /> &nbsp;Otros repositorios destacados
 
 | Proyecto | Descripción | Stack | Enlace |
@@ -246,7 +248,12 @@ API para el control de las **finanzas del hogar**: registro de ingresos y gastos
 
 **¿Tienes un proyecto en mente? Hablemos.**
 
-[![Portafolio](https://img.shields.io/badge/jorzunex.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://jorzunex.github.io/)
+<a href="https://jorzunex.github.io/">
+  <img src="https://img.shields.io/badge/PORTAFOLIO-jorzunex.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=38BDF8" alt="Portafolio" height="34" />
+</a>
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-carmona-ram%C3%ADrez/)
 [![Gmail](https://img.shields.io/badge/jorgeandresR03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeandresR03@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+57_310_735_4349-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573107354349)
