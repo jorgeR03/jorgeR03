@@ -320,7 +320,7 @@ Páginas web, tiendas en línea, sistemas, apps e IA a la medida de tu negocio. 
           Ese día quita también  hide_rank=true  y  hide=stars,issues.
      ══════════════════════════════════════════════════════════════════════ -->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgeR03&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues&include_all_commits=true&card_width=340&locale=es&custom_title=Estad%C3%ADsticas+de+GitHub&cache_seconds=86400&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" alt="Estadísticas de GitHub de jorgeR03" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgeR03&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues&include_all_commits=true&card_width=340&line_height=30&locale=es&custom_title=Estad%C3%ADsticas+de+GitHub&cache_seconds=86400&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" alt="Estadísticas de GitHub de jorgeR03" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeR03&layout=compact&langs_count=5&hide=html,css,purebasic,shell&hide_border=true&locale=es&cache_seconds=86400&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" alt="Lenguajes más usados" />
 
 <!-- ── Racha oculta por ahora ────────────────────────────────────────────
